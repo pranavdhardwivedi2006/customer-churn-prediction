@@ -24,15 +24,7 @@ Customer-Churn-Prediction/
 │   └── Telco-Customer-Churn.csv
 │
 ├── notebooks/
-│   ├── 01_Data_Understanding.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
-│   ├── 03_Data_Preprocessing.ipynb
-│   ├── 04_Feature_Engineering.ipynb
-│   ├── 05_Model_Training.ipynb
-│   ├── 06_Model_Evaluation.ipynb
-│   ├── 07_Hyperparameter_Tuning.ipynb
-│   ├── 08_Feature_Importance.ipynb
-│   └── 09_Final_Conclusion.ipynb
+│   ├── 01-data-analysis.ipynb
 │
 ├── README.md
 ├── requirements.txt
